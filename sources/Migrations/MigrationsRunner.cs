@@ -10,7 +10,7 @@ namespace Komrad.Template.Migrations
 
     public static class MigrationsRunner
     {
-        private const string DatabaseType = "@Komrad.Revolver [DatabaseType]";
+        private const string DatabaseType = "@Komrad.Revolver[DatabaseType]";
 
         public static string Run(string connectionStringKey)
         {
