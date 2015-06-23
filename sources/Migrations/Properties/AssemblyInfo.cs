@@ -1,5 +1,4 @@
 // @Komrad.Revolver If: sql
-
 using System.Reflection;
 using System.Runtime.InteropServices;
 
